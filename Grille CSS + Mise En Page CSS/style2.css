@@ -1,0 +1,37 @@
+.principal{
+    height: 250px;
+    width: 50%;
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-content:space-around ;
+
+}
+.box1{
+    width: 95%;
+    height: 50px;
+    border: 1px solid purple;
+    background-color: deepskyblue;
+
+}
+.box2{
+    width: 30%;
+    height: 120px;
+    background-color: deepskyblue;
+   margin-left: 65%;
+
+}
+.box3{
+    width: 95%;
+    height: 50px;
+    border: 1px solid deepskyblue;
+    background-color: deepskyblue;
+}
+.box{
+
+    display: flex;
+    justify-content: center;
+   align-items: center;
+
+}
